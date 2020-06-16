@@ -1054,6 +1054,10 @@ https://community.redwoodjs.com/t/prisma-beta-2-and-rwjs-limited-generator-suppo
       <td><span id="code">--force, -f</span></td>
       <td>Overwrite existing files.</td>
     </tr>
+    <tr>
+      <td><span id="code">--crud</span></td>
+      <td>Generate CRUD for existing files.</td>
+    </tr>
   </tbody>
 </table>
 
